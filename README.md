@@ -1,1 +1,1 @@
-#Numpy tutorial using jupyter notebook
+# Numpy tutorial using jupyter notebook
